@@ -1,5 +1,5 @@
 # clickerapp
-
+This is a basic vue 3 app. It uses the composition API to increment, decrement, and double an integer.
 ## Project setup
 ```
 npm install
